@@ -1,4 +1,11 @@
 # Full Beginner Guide: Nuxt 3 + Codex + Firebase Hosting
+Your Prompt to (ChatGPT):
+
+I want you to create an AI prompt for Codex.
+I'm using VS Code.
+I want Codex to build a Nuxt 3 website using Tailwind CSS and Firebase Hosting.
+I want it to start from scratch: install dependencies, initialize the project, and build it.
+Use this URL as design inspiration: https://example.com
 
 ## 1. Create a GitHub Account
 1. Go to github.com
